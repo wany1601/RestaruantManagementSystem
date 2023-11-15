@@ -3,9 +3,6 @@ package org.yi.dto;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
-import lombok.ToString;
-
-import java.util.Arrays;
 
 @EqualsAndHashCode
 @Getter
